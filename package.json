@@ -1,0 +1,8 @@
+{
+  "name": "thegraph-mappings",
+  "version": "1.0.0",
+  "description": "An arbor repository for thegraph implementation",
+  "repository": "git@github.com:arbor-dao/graph.git",
+  "author": "ljrahn",
+  "license": "MIT"
+}
